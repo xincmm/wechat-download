@@ -601,17 +601,17 @@ export async function packHTMLAssets(html: string, title: string, outputDir: str
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,viewport-fit=cover">
     <title>${title}</title>
-    <link rel="stylesheet" href="./assets/17401606070510.14442976770042493.css">
-    <link rel="stylesheet" href="./assets/17401606070520.020004641553946545.css">
-    <link rel="stylesheet" href="./assets/17401606070530.7896585370203899.css">
-    <link rel="stylesheet" href="./assets/17401606070540.6356102738340366.css">
-    <link rel="stylesheet" href="./assets/17401606070540.5180038120807118.css">
-    <link rel="stylesheet" href="./assets/17401606070550.9888332910059141.css">
+    <link rel="stylesheet" href="/assets/css/1.css">
+    <link rel="stylesheet" href="/assets/css/2.css">
+    <link rel="stylesheet" href="/assets/css/3.css">
+    <link rel="stylesheet" href="/assets/css/4.css">
+    <link rel="stylesheet" href="/assets/css/5.css">
+    <link rel="stylesheet" href="/assets/css/6.css">
     <style>
         #page-content,
         #js_article_bottom_bar,
         .__page_content__ {
-            max-width: 667px;
+            max-width: 760px;
             margin: 0 auto;
         }
         img {
